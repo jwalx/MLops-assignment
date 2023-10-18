@@ -1,1 +1,121 @@
 [2023-10-17 12:10:46,856: INFO: main: Welcome to our custom logging]
+[2023-10-17 19:01:14,689: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-17 19:01:14,689: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-17 19:03:07,792: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-17 19:03:07,794: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-17 19:06:07,071: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-17 19:06:07,071: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-17 19:08:24,034: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-17 19:08:24,036: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-17 19:10:58,243: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-17 19:10:58,243: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-17 19:10:58,243: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-10-17 19:10:58,243: INFO: common: created directory at: artifacts]
+[2023-10-17 19:10:58,243: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-10-17 19:14:24,402: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-17 19:14:24,402: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-17 19:14:24,402: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-10-17 19:14:24,407: INFO: common: created directory at: artifacts]
+[2023-10-17 19:14:24,409: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-10-17 19:16:57,932: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-17 19:16:57,934: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-17 19:16:57,937: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-10-17 19:16:57,942: INFO: common: created directory at: artifacts]
+[2023-10-17 19:16:57,944: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-10-17 19:21:01,891: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-17 19:21:01,894: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-17 19:21:01,901: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-10-17 19:21:01,903: INFO: common: created directory at: artifacts]
+[2023-10-17 19:21:01,904: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-10-17 19:26:53,892: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-17 19:26:53,892: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-17 19:26:53,892: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-10-17 19:26:53,892: INFO: common: created directory at: artifacts]
+[2023-10-17 19:26:53,892: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-10-17 19:30:19,308: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-17 19:30:19,308: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-17 19:30:19,312: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-10-17 19:30:19,314: INFO: common: created directory at: artifacts]
+[2023-10-17 19:30:19,315: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-10-17 19:32:42,058: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-17 19:32:42,058: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-17 19:32:42,058: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-10-17 19:32:42,058: INFO: common: created directory at: artifacts]
+[2023-10-17 19:32:42,058: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-10-18 00:28:41,458: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-18 00:28:41,458: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-18 00:28:41,458: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-10-18 00:28:41,458: INFO: common: created directory at: artifacts]
+[2023-10-18 00:28:41,458: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-10-18 00:30:26,964: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-18 00:30:26,971: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-18 00:30:26,973: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-10-18 00:30:26,975: INFO: common: created directory at: artifacts]
+[2023-10-18 00:30:26,976: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-10-18 00:37:04,527: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-18 00:37:04,527: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-18 00:37:04,527: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-10-18 00:37:04,527: INFO: common: created directory at: artifacts]
+[2023-10-18 00:37:04,535: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-10-18 00:42:08,745: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-18 00:42:08,746: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-18 00:42:08,749: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-10-18 00:42:08,753: INFO: common: created directory at: artifacts]
+[2023-10-18 00:42:08,755: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-10-18 00:42:46,659: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-18 00:42:46,663: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-18 00:42:46,664: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-10-18 00:42:46,666: INFO: common: created directory at: artifacts]
+[2023-10-18 00:42:46,667: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-10-18 00:44:16,488: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-18 00:44:16,488: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-18 00:44:16,488: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-10-18 00:44:16,488: INFO: common: created directory at: artifacts]
+[2023-10-18 00:44:16,488: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-10-18 00:46:06,669: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-18 00:46:06,669: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-18 00:46:06,669: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-10-18 00:46:06,677: INFO: common: created directory at: artifacts]
+[2023-10-18 00:46:06,678: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-10-18 00:47:41,289: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-18 00:47:41,292: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-18 00:47:41,293: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-10-18 00:47:41,295: INFO: common: created directory at: artifacts]
+[2023-10-18 00:47:41,296: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-10-18 00:47:43,472: INFO: 2366278714: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: D47A:9337:411C9A:4E808B:652EDDD5
+Accept-Ranges: bytes
+Date: Tue, 17 Oct 2023 19:17:43 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10237-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1697570263.144852,VS0,VE335
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: baa6bcb5a02f2a4b2b926b512a864e95bb64ebd7
+Expires: Tue, 17 Oct 2023 19:22:43 GMT
+Source-Age: 0
+
+]
+[2023-10-18 12:09:04,797: INFO: main: >>>>>> stage Data Ingestation Stage started <<<<<<]
+[2023-10-18 12:09:04,812: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-18 12:09:04,812: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-18 12:09:04,812: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-10-18 12:09:04,812: INFO: common: created directory at: artifacts]
+[2023-10-18 12:09:04,812: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-10-18 12:09:04,812: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2023-10-18 12:09:04,866: INFO: main: >>>>>> stage Data Ingestation Stage completed <<<<<<
+
+x==========x]
